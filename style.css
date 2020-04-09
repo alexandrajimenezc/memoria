@@ -17,3 +17,13 @@ img{
     height: 300px;
 }
 
+@media(max-width:768px){
+
+    img{
+        width: 100px;
+        height: 100px;
+    }
+   
+  
+}  
+
